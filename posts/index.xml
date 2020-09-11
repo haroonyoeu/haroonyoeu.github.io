@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Haroon Yoeu</title>
-    <link>http://haroonyoeu.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Haroon Yoeu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 10 Sep 2020 23:29:46 -0500</lastBuildDate>
     
-	<atom:link href="http://haroonyoeu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://haroonyoeu.github.io/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Thu, 10 Sep 2020 23:29:46 -0500</pubDate>
       
-      <guid>http://haroonyoeu.github.io/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description></description>
     </item>
     
