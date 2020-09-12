@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haroon Yoeu</title>
-    <link>/</link>
-    <description>Recent content on Haroon Yoeu</description>
+    <title>Posts on Haroon Yoeu</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Haroon Yoeu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:15:51 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Thu, 10 Sep 2020 23:31:00 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hey there!</description>
-    </item>
     
     <item>
       <title>Hello World! Powered by...</title>
