@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Hello World! Powered by...</title>
+      <title>Hello World!</title>
       <link>/posts/2020/initial-post/</link>
       <pubDate>Wed, 01 Jan 2020 00:15:51 -0500</pubDate>
       
       <guid>/posts/2020/initial-post/</guid>
-      <description>The combination of Hugo, Cloudflare, GitHub (Actions, Workflows &amp;amp; Pages Deployment)! Here&amp;rsquo;s more information on Hugo, Cloudflare &amp;amp; GitHub Pages.
+      <description>Powered by the combination of Hugo, Cloudflare and GitHub Actions, Workflows + Pages Deployment! Here&amp;rsquo;s more information on Hugo, Cloudflare &amp;amp; GitHub Pages.
 Best, Haroon</description>
     </item>
     
